@@ -14,77 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A **Data Engineer** passionate about building reliable, scalable, and well-designed data pipelines. I enjoy working across the full data lifecycle — from ingestion and transformation to orchestration and exposure through APIs.
 
-I’m especially motivated by **technical challenges** and **learning new technologies**, and I actively experiment with different data stacks in my personal projects.
+I build reliable and scalable data pipelines.
 
----
+I mostly work with **Python & SQL** for data transformations  
+(using pandas, polars, and dbt).
 
-## 🛠️ Tech Stack & Expertise
+I have hands-on experience with **Apache Spark**  
+(both PySpark and Scala).
 
-### **Data Transformation & Modeling**
-- **Python & SQL** for data processing and analytics  
-- Hands-on experience with:
-  - **pandas** & **polars** for "small" data transformations
-  - **dbt** for analytics engineering, testing, and data modeling
-- Strong focus on clean, maintainable, and well-tested transformations
+For orchestration, I use **Airflow, Prefect, and Luigi**.
 
-### **Big Data & Distributed Processing**
-- **Apache Spark**
-  - PySpark for data engineering workflows
-  - Scala for performance-critical or JVM-based pipelines
-- Experience handling large datasets and optimizing transformations
+I also build **REST APIs with FastAPI** to expose data products.
 
-### **Workflow Orchestration**
-- Designing and operating data pipelines using:
-  - **Airflow**
-  - **Prefect**
-  - **Luigi**
-- Comfortable with scheduling, dependency management, retries, and monitoring
+I love technical challenges and learning new technologies 🚀  
+In my free time, I experiment with ETL pipelines on **NBA data**  
+using different data stacks.
 
-### **Data APIs & Services**
-- Building **REST APIs** with **FastAPI**
-- Exposing data products and services in a clean, documented, and scalable way
-- Experience integrating APIs into data platforms and pipelines
-
----
-
-## 🚀 What I Enjoy Working On
-
-- Designing **end-to-end ETL / ELT pipelines**
-- Exploring **modern data stacks** and comparing tools
-- Improving data quality, reliability, and observability
-- Turning raw data into usable, well-structured datasets
-
----
-
-## 🏀 Personal Projects
-
-In my free time, I enjoy experimenting with **ETL pipelines on NBA data**, using different technologies and architectures to:
-
-- Test new tools and frameworks
-- Compare performance and developer experience
-- Practice real-world data modeling and orchestration patterns
-
-These projects are playgrounds for innovation, learning, and pushing my data engineering skills further.
-
----
-
-## 📌 What You’ll Find in My Repositories
-
-- Data pipelines built with different orchestration tools
-- Spark-based batch processing projects
-- dbt models and analytics workflows
-- API-driven data services with FastAPI
-- Experiments with alternative stacks and architectures
-
----
-
-## 📫 Let’s Connect
-
-If you’re interested in:
-- Data engineering roles
-- Building modern data platforms
-- Challenging data problems
-
-Feel free to explore my repositories or reach out!
+You can find me here on GitHub — feel free to explore my projects!
